@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jkhoOuTbN0CRMB8eBeifJrLiN+tJKUah8AC8AuJutx/UCDeEqXIlWevZBlvDQMDALGlrmF75pQL7kQXms287Vg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\StackImplementation\\StackImplementation\\StackImplementation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
